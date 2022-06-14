@@ -1,2 +1,2 @@
-# E-coommerice-
-Here, i am showing about e commerce website
+# E-commerce
+Here, i am showing about E-commerce website
